@@ -1,0 +1,15 @@
+#app {
+  margin: 0 auto;
+}
+
+nav {
+  padding: 20px 0 20px 0;
+}
+
+.bg {
+  background-image: url("https://miro.medium.com/max/4800/1*9Gpp8rNxOBQnIAAN7aEkUA.jpeg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
